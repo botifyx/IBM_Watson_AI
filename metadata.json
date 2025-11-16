@@ -1,0 +1,7 @@
+{
+  "name": "IBM Watson AI Guide",
+  "description": "A comprehensive, modern, and visually stunning informational website dedicated to IBM Watson AI, its history, capabilities, products, and impact. This site is an independent project and not affiliated with or endorsed by IBM.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
